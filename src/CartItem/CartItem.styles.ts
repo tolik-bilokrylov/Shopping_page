@@ -7,17 +7,17 @@ export const Wrapper = styled.div`
   border-bottom: 1px solid lightblue;
   padding-bottom: 20px;
 
-  div {
+  .cartitem {
     flex: 1;
   }
 
-  .information,
-  .buttons {
+  .cartitem__information,
+  .cartitem__buttons {
     display: flex;
     justify-content: space-between;
   }
 
-  img {
+  .cartitem__img {
     max-width: 80px;
     object-fit: cover;
     margin-left: 40px;
