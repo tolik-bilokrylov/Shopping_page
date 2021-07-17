@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/main.38db1af1.chunk.js",
-    "main.js.map": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/main.38db1af1.chunk.js.map",
-    "runtime-main.js": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/runtime-main.aef90af8.js",
-    "runtime-main.js.map": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/runtime-main.aef90af8.js.map",
-    "static/js/2.16f26b2c.chunk.js": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/2.16f26b2c.chunk.js",
-    "static/js/2.16f26b2c.chunk.js.map": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/2.16f26b2c.chunk.js.map",
-    "index.html": "/tolik-bilokrylov.github.io/react-shopping-cart/index.html",
-    "static/js/2.16f26b2c.chunk.js.LICENSE.txt": "/tolik-bilokrylov.github.io/react-shopping-cart/static/js/2.16f26b2c.chunk.js.LICENSE.txt"
+    "main.js": "/Shopping_page/static/js/main.f1540193.chunk.js",
+    "main.js.map": "/Shopping_page/static/js/main.f1540193.chunk.js.map",
+    "runtime-main.js": "/Shopping_page/static/js/runtime-main.bc0af49a.js",
+    "runtime-main.js.map": "/Shopping_page/static/js/runtime-main.bc0af49a.js.map",
+    "static/js/2.7e5f505b.chunk.js": "/Shopping_page/static/js/2.7e5f505b.chunk.js",
+    "static/js/2.7e5f505b.chunk.js.map": "/Shopping_page/static/js/2.7e5f505b.chunk.js.map",
+    "index.html": "/Shopping_page/index.html",
+    "static/js/2.7e5f505b.chunk.js.LICENSE.txt": "/Shopping_page/static/js/2.7e5f505b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aef90af8.js",
-    "static/js/2.16f26b2c.chunk.js",
-    "static/js/main.38db1af1.chunk.js"
+    "static/js/runtime-main.bc0af49a.js",
+    "static/js/2.7e5f505b.chunk.js",
+    "static/js/main.f1540193.chunk.js"
   ]
 }
