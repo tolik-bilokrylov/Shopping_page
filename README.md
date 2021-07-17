@@ -1,4 +1,4 @@
-[DEMO LINK](https://tolik-bilokrylov.github.io/react_movies-list/)
+[DEMO LINK](https://tolik-bilokrylov.github.io/react-shopping-cart/)
 
 
 # Getting Started with Create React App
